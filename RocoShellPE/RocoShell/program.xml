@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <program>
+    <name>Notepad</name>
+    <path>C:\Windows\notepad.exe</path>
+    <icon>C:\Windows\explorer.exe</icon>
+    <index>0</index>
+  </program>
+  <program>
+    <name>Notepad1</name>
+    <path>C:\Windows\notepad.exe</path>
+    <icon>C:\Windows\explorer.exe</icon>
+    <index>1</index>
+  </program>
+</list>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocoShellPE", "RocoShellPE\RocoShellPE.csproj", "{DE06981D-CA11-4F8A-8463-2D514FCBABF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocoShell", "RocoShell\RocoShell.csproj", "{ABC5843E-D86F-464E-96DA-D5B1CE7A7245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocoRSASignKernel", "RocoRSASignKernel\RocoRSASignKernel.csproj", "{2DF90944-7DDF-45FF-88A9-0A3DF71668E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE06981D-CA11-4F8A-8463-2D514FCBABF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE06981D-CA11-4F8A-8463-2D514FCBABF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE06981D-CA11-4F8A-8463-2D514FCBABF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE06981D-CA11-4F8A-8463-2D514FCBABF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC5843E-D86F-464E-96DA-D5B1CE7A7245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC5843E-D86F-464E-96DA-D5B1CE7A7245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC5843E-D86F-464E-96DA-D5B1CE7A7245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC5843E-D86F-464E-96DA-D5B1CE7A7245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DF90944-7DDF-45FF-88A9-0A3DF71668E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF90944-7DDF-45FF-88A9-0A3DF71668E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF90944-7DDF-45FF-88A9-0A3DF71668E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF90944-7DDF-45FF-88A9-0A3DF71668E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

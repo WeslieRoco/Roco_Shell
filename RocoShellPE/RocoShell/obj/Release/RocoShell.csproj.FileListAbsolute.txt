@@ -1,0 +1,9 @@
+E:\Visual Studio\Projects\RocoShellPE\RocoShell\bin\Release\RocoShell.exe
+E:\Visual Studio\Projects\RocoShellPE\RocoShell\bin\Release\RocoShell.pdb
+E:\Visual Studio\Projects\RocoShellPE\RocoShell\obj\Release\RocoShell.frmMain.resources
+E:\Visual Studio\Projects\RocoShellPE\RocoShell\obj\Release\RocoShell.Properties.Resources.resources
+E:\Visual Studio\Projects\RocoShellPE\RocoShell\obj\Release\RocoShell.csproj.GenerateResource.Cache
+E:\Visual Studio\Projects\RocoShellPE\RocoShell\obj\Release\RocoShell.exe
+E:\Visual Studio\Projects\RocoShellPE\RocoShell\obj\Release\RocoShell.pdb
+E:\Visual Studio\Projects\RocoShellPE\RocoShell\bin\Release\program.xml
+E:\Visual Studio\Projects\RocoShellPE\RocoShell\obj\Release\RocoShell.csprojResolveAssemblyReference.cache
